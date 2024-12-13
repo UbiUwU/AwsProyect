@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoOfertasTrabajo</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="botonLogin">Acceder</string>
+
+
+    <string name="register">Registrate</string>
+    <string name="botonRegistrar">Registrar</string>
+    <string name="click_para_entrar">Click para acceder a tu cuenta</string>
+    <string name="click_para_registrarte">Click para registrarte</string>
+    <string name="salir">salir</string>
+</resources>
