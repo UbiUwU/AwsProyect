@@ -61,6 +61,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation("com.google.accompanist:accompanist-swiperefresh:0.31.3-beta")
+    implementation ("com.google.android.gms:play-services-auth:20.7.0")// Usa la última versión estable
 
     // implementation(libs.firebase.auth)
     // Import the BoM for the Firebase platform
